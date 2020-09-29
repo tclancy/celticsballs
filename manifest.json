@@ -25,7 +25,7 @@
   "content_scripts": [
     {
       "matches": [
-        "https://www.theathletic.com/*"
+        "https://theathletic.com/*"
       ],
       "js": [
         "src/inject/inject.js"

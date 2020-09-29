@@ -7,4 +7,3 @@ Stolen from a commenter on The Athletic, this extension should liven the
 ## TODO
 
 - Create icon of that beautiful melon
-- Make things work
