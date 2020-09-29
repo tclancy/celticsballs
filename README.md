@@ -3,3 +3,8 @@
 Stolen from a commenter on The Athletic, this extension should liven the
 "awesome" button for rating articles by memoralizing this bit of
 [liguistic brilliance.](https://www.youtube.com/watch?v=w8itH10OFc8)
+
+## TODO
+
+- Create icon of that beautiful melon
+- Make things work
